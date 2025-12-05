@@ -217,7 +217,7 @@
             src: "viajes/laboral.jpg",
             miniatura: "viajes/laboral.jpg",
             titulo: "Laboral",
-            leyenda: "Descripción de la foto laboral."
+            leyenda: "Pegatina con la que vimos las cocinas, lavandería y torre de la Laboral. Vaya potra tuvimos"
           }
         ]
       }
@@ -313,4 +313,3 @@
   </script>
 </body>
 </html>
-
